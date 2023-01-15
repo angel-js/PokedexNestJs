@@ -20,6 +20,11 @@ npm i -g @nestjs/cli
 docker-compose up -d
 ```
 
+5. Axios en la version 0.27.2 para evitar errores
+```
+yarn add axios@0.27.2
+```
+
 ## Stack usado
 * MongoDB
 * Nest
