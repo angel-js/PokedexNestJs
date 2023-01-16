@@ -25,6 +25,12 @@ docker-compose up -d
 yarn add axios@0.27.2
 ```
 
+6. Reconstruir la base de datos con la semilla
+```
+http://localhost:3000/api/v2/seed
+```
+
+
 ## Stack usado
 * MongoDB
 * Nest
